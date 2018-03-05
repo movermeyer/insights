@@ -1,11 +1,11 @@
 Insights
 ========
 
-[![Latest Version](https://pypip.in/v/insights/badge.png)](https://pypi.python.org/pypi/insights/)
+[![Latest Version](https://img.shields.io/pypi/v/insights.svg)](https://pypi.python.org/pypi/insights/)
 [![Build Status](https://drone.io/github.com/intuition-io/insights/status.png)](https://drone.io/github.com/intuition-io/insights/latest)
 [![Coverage Status](https://coveralls.io/repos/hackliff/insights/badge.png?branch=master)](https://coveralls.io/r/hackliff/insights?branch=master)
 [![Code Health](https://landscape.io/github/intuition-io/insights/master/landscape.png)](https://landscape.io/github/intuition-io/insights/master)
-[![License](https://pypip.in/license/insights/badge.png)](https://pypi.python.org/pypi/insights/)
+[![License](https://img.shields.io/pypi/l/insights.svg)](https://pypi.python.org/pypi/insights/)
 [![Gitter chat](https://badges.gitter.im/intuition-io.png)](https://gitter.im/intuition-io)
 
 > Plug-and-play building blocks for modern quants
